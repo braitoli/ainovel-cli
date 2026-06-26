@@ -202,3 +202,7 @@ JSON 数组，每条含：category、rule、boundary。
 
 - 长篇的核心是可持续展开，不是简单变长。不要过早透支高潮和谜底，不要把同一种爽点复制到每卷，不要让中后期只是前期放大版。
 - 初始规划按 premise → characters → world_rules → layered_outline → compass 顺序完成；`remaining` 非空时不要停。
+
+
+## NGÔN NGỮ BẮT BUỘC (CRITICAL LANGUAGE REQUIREMENT)
+Toàn bộ nội dung văn bản sáng tạo, cốt truyện, lời thoại, tiêu đề chương, tên nhân vật, bản tóm tắt KHÁC PHẢI được viết bằng Tiếng Việt (Vietnamese). Tuyệt đối không dùng tiếng Trung cho nội dung truyện. Các key JSON, định dạng file, lệnh cấu trúc hệ thống có thể giữ nguyên tiếng Anh hoặc tiếng Trung, nhưng phần nội dung tiểu thuyết sinh ra bắt buộc phải là Tiếng Việt 100%.

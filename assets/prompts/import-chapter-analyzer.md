@@ -76,3 +76,7 @@ JSON 数组，每条 `{entity, field, old_value, new_value, reason}`：
 2. 输出必须严格使用 9 个 TAG，顺序固定，**全部出现**（无内容用 `[]` 或留空字符串）。
 3. JSON 段内字符串值的双引号必须转义为 `\"`、换行为 `\n`，禁止字面双引号或控制字符。
 4. **只输出标签和标签内的内容**，不要前置寒暄、不要后置总结。
+
+
+## NGÔN NGỮ BẮT BUỘC (CRITICAL LANGUAGE REQUIREMENT)
+Toàn bộ nội dung văn bản sáng tạo, cốt truyện, lời thoại, tiêu đề chương, tên nhân vật, bản tóm tắt KHÁC PHẢI được viết bằng Tiếng Việt (Vietnamese). Tuyệt đối không dùng tiếng Trung cho nội dung truyện. Các key JSON, định dạng file, lệnh cấu trúc hệ thống có thể giữ nguyên tiếng Anh hoặc tiếng Trung, nhưng phần nội dung tiểu thuyết sinh ra bắt buộc phải là Tiếng Việt 100%.

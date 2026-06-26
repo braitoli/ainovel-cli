@@ -1,0 +1,9 @@
+2026/06/26 15:38:38 INFO 启动 module=boot provider=minimax model=MiniMax-Text-01 output=output/novel
+2026/06/26 15:38:38 INFO 模型就绪 module=boot summary="default=minimax/MiniMax-Text-01"
+2026/06/26 15:38:38 WARN 未识别的模型，使用兜底窗口（自定义代理或 OpenRouter 未收录，可用 context_window 显式指定） module=context role=coordinator model=MiniMax-Text-01 window=200000 source=default
+2026/06/26 15:38:38 WARN 未识别的模型，使用兜底窗口（自定义代理或 OpenRouter 未收录，可用 context_window 显式指定） module=context role=writer model=MiniMax-Text-01 window=200000 source=default
+2026/06/26 15:38:38 INFO 模型元数据已就绪 module=models count=206
+headless 启动: output/novel
+[15:38:38] [SYSTEM] 开始创作
+[15:38:39] [ERROR] llm call failed: stream init failed: llm: stream failed: [litellm:openai:auth] {"type":"error","error":{"type":"authoriz...
+[15:38:39] [SYSTEM] Coordinator 停止 (已完成 0 章)

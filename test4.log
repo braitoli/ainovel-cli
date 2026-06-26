@@ -1,0 +1,9 @@
+2026/06/26 15:38:16 INFO 启动 module=boot provider=minimax model=abab6.5s-chat output=output/novel
+2026/06/26 15:38:16 INFO 模型就绪 module=boot summary="default=minimax/abab6.5s-chat"
+2026/06/26 15:38:16 WARN 未识别的模型，使用兜底窗口（自定义代理或 OpenRouter 未收录，可用 context_window 显式指定） module=context role=coordinator model=abab6.5s-chat window=200000 source=default
+2026/06/26 15:38:16 WARN 未识别的模型，使用兜底窗口（自定义代理或 OpenRouter 未收录，可用 context_window 显式指定） module=context role=writer model=abab6.5s-chat window=200000 source=default
+2026/06/26 15:38:16 INFO 模型元数据已就绪 module=models count=206
+headless 启动: output/novel
+[15:38:16] [SYSTEM] 开始创作
+[15:38:17] [ERROR] llm call failed: stream init failed: llm: stream failed: [litellm:minimax:validation] {"type":"error","error":{"type":"b...
+[15:38:17] [SYSTEM] Coordinator 停止 (已完成 0 章)

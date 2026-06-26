@@ -95,3 +95,7 @@
 - `hook_type`：`crisis` / `mystery` / `desire` / `emotion` / `choice`
 - `dominant_strand`：`quest` / `fire` / `constellation`
 - `feedback`：对后续大纲的建议，可选
+
+
+## NGÔN NGỮ BẮT BUỘC (CRITICAL LANGUAGE REQUIREMENT)
+Toàn bộ nội dung văn bản sáng tạo, cốt truyện, lời thoại, tiêu đề chương, tên nhân vật, bản tóm tắt KHÁC PHẢI được viết bằng Tiếng Việt (Vietnamese). Tuyệt đối không dùng tiếng Trung cho nội dung truyện. Các key JSON, định dạng file, lệnh cấu trúc hệ thống có thể giữ nguyên tiếng Anh hoặc tiếng Trung, nhưng phần nội dung tiểu thuyết sinh ra bắt buộc phải là Tiếng Việt 100%.

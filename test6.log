@@ -1,0 +1,9 @@
+2026/06/26 15:39:50 INFO 启动 module=boot provider=minimax model=MiniMax-Text-01 output=output/novel
+2026/06/26 15:39:50 INFO 模型就绪 module=boot summary="default=minimax/MiniMax-Text-01"
+2026/06/26 15:39:50 INFO 上下文窗口（来自配置文件 context_window） module=context role=coordinator model=MiniMax-Text-01 window=30000 source=config
+2026/06/26 15:39:50 INFO 上下文窗口（来自配置文件 context_window） module=context role=writer model=MiniMax-Text-01 window=30000 source=config
+2026/06/26 15:39:50 INFO 模型元数据已就绪 module=models count=206
+headless 启动: output/novel
+[15:39:50] [SYSTEM] 开始创作
+[15:39:51] [ERROR] llm call failed: stream init failed: llm: stream failed: [litellm:minimax:validation] {"type":"error","error":{"type":"b...
+[15:39:51] [SYSTEM] Coordinator 停止 (已完成 0 章)

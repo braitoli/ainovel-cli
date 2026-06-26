@@ -56,3 +56,7 @@
 - 新报告优先，但要保留既有画像中仍然成立的稳定结论。
 - 输出要压缩、可执行，避免泛泛而谈。
 - 明确提醒：借鉴结构和手法，不复制原文表达、人物、专有设定。
+
+
+## NGÔN NGỮ BẮT BUỘC (CRITICAL LANGUAGE REQUIREMENT)
+Toàn bộ nội dung văn bản sáng tạo, cốt truyện, lời thoại, tiêu đề chương, tên nhân vật, bản tóm tắt KHÁC PHẢI được viết bằng Tiếng Việt (Vietnamese). Tuyệt đối không dùng tiếng Trung cho nội dung truyện. Các key JSON, định dạng file, lệnh cấu trúc hệ thống có thể giữ nguyên tiếng Anh hoặc tiếng Trung, nhưng phần nội dung tiểu thuyết sinh ra bắt buộc phải là Tiếng Việt 100%.

@@ -143,3 +143,7 @@ JSON 对象。基于正文走向反推**续写方向锚点**：
 2. 输出必须严格使用 `=== PREMISE ===` / `=== CHARACTERS ===` / `=== WORLD_RULES ===` / `=== LAYERED_OUTLINE ===` / `=== COMPASS ===` 五个标签，顺序固定。
 3. JSON 段内**所有**字符串值的双引号必须转义为 `\"`、换行为 `\n`，禁止字面双引号或控制字符。
 4. **只输出标签和标签内的内容**，不要前置寒暄、不要后置总结、不要解释你做了什么。
+
+
+## NGÔN NGỮ BẮT BUỘC (CRITICAL LANGUAGE REQUIREMENT)
+Toàn bộ nội dung văn bản sáng tạo, cốt truyện, lời thoại, tiêu đề chương, tên nhân vật, bản tóm tắt KHÁC PHẢI được viết bằng Tiếng Việt (Vietnamese). Tuyệt đối không dùng tiếng Trung cho nội dung truyện. Các key JSON, định dạng file, lệnh cấu trúc hệ thống có thể giữ nguyên tiếng Anh hoặc tiếng Trung, nhưng phần nội dung tiểu thuyết sinh ra bắt buộc phải là Tiếng Việt 100%.

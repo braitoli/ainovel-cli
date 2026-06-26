@@ -1,0 +1,11 @@
+{
+  "provider": "minimax",
+  "model": "MiniMax-M3",
+  "providers": {
+    "minimax": {
+      "type": "openai",
+      "api_key": "sk-cp-0Xde6OO6Xj07cPgImnTFAA6pTYVKVKUFGHeeijQZi49C5k1Qq8lEahiogaBKJZRCMhLkYQzujQiWFCIPbKuE8rO5mpQD1kqDB-z6vvbiIPB7sxaLPS3_9U0",
+      "base_url": "https://api.minimax.io/v1"
+    }
+  }
+}
